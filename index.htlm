@@ -1,0 +1,108 @@
+<!DOCTYPE html">
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>EXO POO</title>
+    <link rel="stylesheet" href="../css/styl.css" />
+  </head>
+  
+  <body>
+
+
+
+    <!--<img src="poo.jpg" alt="Photo de programme" width="250"  height="250" /> -->
+
+    
+
+    <nav>
+      <ul>
+        <li class="menu-deroulant">
+          <a href="accueil.html">ACCUEIL</a>
+          <ul class="sous-menu">
+            <li><a href="#">A PROPOS</a></li>
+            <li><a href="#">NOTRE HISTOIRE</a></li>
+            
+          </ul>
+        </li>
+        <li class="menu-deroulant">
+          <a href="contact.html">CONTACT</a>
+          <ul class="sous-menu">
+            <li> <a href="contact.html">NOUS CONTACTER </a></li>
+            <li><a href="#">ANNUAIRE</a></li>
+          </ul>
+        </li>
+       
+      </ul>
+    </nav>
+    
+   
+
+   
+   
+
+
+                 <blockquote>
+                        <center><h1 style="color:blue;"> bienvenue sur EXO POO! </h1></center>
+                        <blockquote> <p> Bonjour! consulter <a href="contact.html">CONTACT </a> OU                        
+                          <a href="accueil.html">ACCUEIL</a>
+                         </p>
+                  </blockquote>
+
+                 
+   <blockquote>
+    <center>
+    <h2> salut et bienvenue sur notre site pour exo poo.</h2>
+   </center>
+   </blockquote>
+   <blockquote>
+       <h3> EXO POO est un site qui vous permet de trouver des exos interessants<br> 
+     pour vous aider a vous ameliorer en programmation orientee objet, ainsi  <br> 
+      EXO POO vous accompagnera en vous proposant des exos selon votre niveau <br> 
+      et evantuellement une correction</h3><br>
+
+
+      <center><h1 style="color:white;"> bref introduction au POO </h1></center><br>
+      <p>
+        <a href="cour.pdf.pdf">COUR1</a>;
+        <div id="conteneur">    
+          <h1 id="header"><a href="cour"></a> </h1>
+      
+          <nav>
+           <h2> <ul id="niveau">
+              <li><a href="cour.pdf.pdf" download="exercice2 (ver.2.0.1).txt">cour1 n°1</a></li>
+              <li><a href="exercice" download="exercice2 (ver.2.0.1).txt">exercice n°2</a></li>
+              <li><a href="exercice" download="exercice3 (ver.2.0.1).txt">exercice n°3</a></li>
+            </ul></h2>
+          </nav>
+        </div>
+        </p>
+
+
+
+
+
+   
+  
+    
+  
+  <div id="conteneur">    
+    <h1 id="header"><a href="exercice"></a> </h1>
+
+    <nav>
+     <h2> <ul id="niveau">
+        <li><a href="exercice" download="exercice1 (ver.2.0.1).txt">exercice n°1</a></li>
+        <li><a href="exercice" download="exercice2 (ver.2.0.1).txt">exercice n°2</a></li>
+        <li><a href="exercice" download="exercice3 (ver.2.0.1).txt">exercice n°3</a></li>
+        <li><a href="exercice" download="exercice4 (ver.2.0.1).txt">exercice n°4</a></li>
+        <li><a href="exercice" download="exercice5 (ver.2.0.1).txt">exercice n°5</a></li>
+      </ul></h2>
+    </nav>
+  </div>
+    
+    <div id="contenu">
+      <h4>site d'exo poo</h4>
+    </div>
+    
+    <p id="footer">Réalisation des codes HTML/CSS,exo et correction par RASSOUL</p>
+
+  </body>
